@@ -1,13 +1,13 @@
 	body
 	{
 		margin: 0px;
-		padding: 0px;
-		background: #333333;
-		font-family: 'Varela', sans-serif;
-		font-size: 11pt;
-		font-weight: 300;
-		color: #656565;
-	}
 	
+	}
+	.mainPage{
+		width: 1166.4px;
+		height: 436.18px;
+		margin: 0px 50px 0px 50px;
+		background-color: lightgrey;
+	}
 	
 
